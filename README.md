@@ -12,7 +12,7 @@
 ### `whoami` → Red Teamer in Training · CTF Player · Self-Taught Hacker
 ### BSc IT @ KV Pendharkar College · Dombivli, Maharashtra 🇮🇳
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Ethical+Hacker+%7C+Self-Taught+since+11th+Grade;Web+App+Pentester+%7C+OWASP+%2F+Burp+Suite;CTF+Player+%7C+HTB+%7C+IIT-Level+Comps;Future+Red+Teamer+%7C+PNPT+%E2%86%92+OSCP)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Ethical+Hacker+%7C+Self-Taught;Web+App+Pentester+%7C+OWASP+%2F+Burp+Suite;CTF+Player+%7C+HTB+%7C+IIT-Level+Comps;Future+Red+Teamer+%7C+PNPT+%E2%86%92+OSCP)](https://git.io/typing-svg)
 
 </div>
 
