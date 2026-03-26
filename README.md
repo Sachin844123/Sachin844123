@@ -139,7 +139,7 @@ $ cat /etc/hacker/sachin.conf
 [2025] ──● BSc IT · HTB Medium Machines · Bug Bounty · AD Labs [CURRENT]
 [2026] ──◎ PNPT Certification  [TARGET]
 [2027] ──○ OSCP Certification  [GOAL]
-[????] ──○ Red Teamer @ 10+ LPA [DREAM]
+[????] ──○ Red Teamer @ 30+ LPA [DREAM]
 ```
 
 ---
