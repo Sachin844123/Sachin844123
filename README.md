@@ -166,7 +166,7 @@ $ cat /etc/hacker/sachin.conf
 
 [![](https://visitcount.itsvg.in/api?id=sachin844123&icon=3&color=0)](https://visitcount.itsvg.in)
 
-*"The quieter you become, the more you are able to hear."* — Kali Linux
+*"The quieter you become, the more you are able to hear."* 
 
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/invalid_user)
 
