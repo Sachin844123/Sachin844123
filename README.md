@@ -18,3 +18,27 @@
 </picture>
 
 </div>
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/sachin-singh-5977b5306/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+&nbsp;&nbsp;
+<a href="https://instagram.com/__sachin__84">
+  <img src="https://img.shields.io/badge/Instagram-0A101F?style=for-the-badge&logo=instagram&logoColor=A78BFA&labelColor=0A101F" alt="Instagram" />
+</a>
+&nbsp;&nbsp;
+<a href="https://x.com/Sachin_S_001">
+  <img src="https://img.shields.io/badge/X-0A101F?style=for-the-badge&logo=x&logoColor=22D3EE&labelColor=0A101F" alt="X" />
+</a>
+&nbsp;&nbsp;
+<a href="mailto:singhsachin7805@gmail.com">
+  <img src="https://img.shields.io/badge/Email-0A101F?style=for-the-badge&logo=gmail&logoColor=10B981&labelColor=0A101F" alt="Email" />
+</a>
+&nbsp;&nbsp;
+<a href="https://sachinfolio-m3c6qjm4.manus.space">
+  <img src="https://img.shields.io/badge/Portfolio-0A101F?style=for-the-badge&logo=vercel&logoColor=F8FAFC&labelColor=0A101F" alt="Portfolio" />
+</a>
+
+</div>
