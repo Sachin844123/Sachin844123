@@ -37,6 +37,10 @@
   <img src="https://img.shields.io/badge/Email-0A101F?style=for-the-badge&logo=gmail&logoColor=10B981&labelColor=0A101F" alt="Email" />
 </a>
 &nbsp;&nbsp;
+<a href="https://www.reddit.com/user/Mr_MorningStar_00/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button">
+  <img src="https://img.shields.io/badge/Reddit-0A101F?style=for-the-badge&logo=reddit&logoColor=FF4500&labelColor=0A101F" alt="Reddit" />
+</a>
+&nbsp;&nbsp;
 <a href="https://sachinfolio-m3c6qjm4.manus.space">
   <img src="https://img.shields.io/badge/Portfolio-0A101F?style=for-the-badge&logo=vercel&logoColor=F8FAFC&labelColor=0A101F" alt="Portfolio" />
 </a>
